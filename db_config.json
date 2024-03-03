@@ -1,6 +1,5 @@
 {
-    host='localhost',
-    user="user",
-    password="password",
-    database="database"
+        "user": "postgres",
+        "password": "pao2003",
+        "database": "db_candidatos"
 }
