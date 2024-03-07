@@ -10,8 +10,7 @@
 ### Demonstrate my knowledge about data management and visualizations and show specific metrics in chart visualizations. Present in a report with significant conclsuions.
 
 ### The visualizations that we am expecting are:
-Hires by technology (pie chart).
-Hires by year (horizontal bar chart).
-Hires by seniority (bar chart).
-Hires by country over years (USA, Brazil, Colombia, and Ecuador only)(multiline chart) .
-Note
+### Hires by technology (pie chart).
+### Hires by year (horizontal bar chart).
+### Hires by seniority (bar chart).
+### Hires by country over years (USA, Brazil, Colombia, and Ecuador only)(multiline chart) .
