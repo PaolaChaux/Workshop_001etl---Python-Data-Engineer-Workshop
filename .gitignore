@@ -2,4 +2,5 @@
 Workshop_001_Python Data Engineer.pdf
 db_config.json
 candidates.csv
-
+.gitattributes
+__pycache__
