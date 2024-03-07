@@ -1,0 +1,10 @@
+psycopg2.
+pandas.
+power bi client
+Python.
+Jupyter notebook
+Git Git.
+PostgreSQL Postgres.
+PgAdmin 4. 
+GitHub.
+Visual Studio Code.
