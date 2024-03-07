@@ -4,3 +4,4 @@ db_config.json
 candidates.csv
 .gitattributes
 __pycache__
+venv
