@@ -8,17 +8,17 @@
 ## Table of contents
 * [Description](#Description)
 
-* [Quick](#Quick data overview)
+* [Quick](#Quick)
 
 * [Objective](#Objective)
 
-* [Brief](#Brief description of what was done)
+* [Brief](#Brief)
 
 * [Requeriments](#Requeriments)
 
 * [Features](#Features)
 
-* [Installation](#Installation Steps)
+* [Installation](#Installation)
 
 * [Considerations](#Considerations)
 
