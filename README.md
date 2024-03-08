@@ -83,7 +83,9 @@
 #### 7. Run the app and enjoy it.
 
 ## Considerations
-### In the visualization part in Power BI Client, what is done is a generalized report that we can edit by having an account in Power BI and logging in, this file is only shown to the user and the inclusion of this notebook is only as a guide so that they can create their own pre-made reports with this tool that facilitates interaction, after saving it we can continue editing from the picnicpal page and download it as a .pbix format or in pdf for greater flexibility to share it, it will be attached in the references of all sites to help you with this tool.
+#### In the visualization part in Power BI Client, what is done is a generalized report that we can edit by having an account in Power BI and logging in, this file is only shown to the user and the inclusion of this notebook is only as a guide so that they can create their own pre-made reports with this tool that facilitates interaction, after saving it we can continue editing from the picnicpal page and download it as a .pbix format or in pdf for greater flexibility to share it, it will be attached in the references of all sites to help you with this tool.
+
+#### To note, I made a copy of db_connection in .py file format to more easily use the functions and only make one call when using them
 
 ## Conclusions
 * The average experience of the candidates is approximately 15 years, indicating a moderately high level of experience overall. Fifty percent of the candidates have between 8 and 23 years of experience, indicating a relatively even distribution with the mean. 
