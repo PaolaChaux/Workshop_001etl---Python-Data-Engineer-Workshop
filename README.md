@@ -6,21 +6,19 @@
 ### Presented by Paola Andrea Chaux Campo, students of Autonoma de Occidente University
 
 ## Table of contents
-*[Description](#Description)
+* [Description](#Description)
 
-*[Quick data overview](#Quick data overview)
+* [Quick](#Quick data overview)
 
 *[Objective](#Objective)
 
-*[Brief description of what was done](#Brief description of what was done)
+*[Brief](#Brief description of what was done)
 
 *[Requeriments](#Requeriments)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
 *[Features](#Features)
 
-*[Installation Steps](#Installation Steps)
+*[Installation](#Installation Steps)
 
 *[Considerations](#Considerations)
 
