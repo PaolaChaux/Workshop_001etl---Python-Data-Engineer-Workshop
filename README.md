@@ -51,10 +51,10 @@
 #### Demonstrate my knowledge about data management and visualizations and show specific metrics in chart visualizations. Present in a report with significant conclusions.
 
 ### The visualizations that I show are:
-#### Hires by technology (pie chart).
-#### Hires by year (horizontal bar chart).
-#### Hires by seniority (bar chart).
-#### Hires by country over years (USA, Brazil, Colombia, and Ecuador only)(multiline chart) .
+* Hires by technology (pie chart).
+* Hires by year (horizontal bar chart).
+* Hires by seniority (bar chart).
+* Hires by country over years (USA, Brazil, Colombia, and Ecuador only)(multiline chart) .
 
 ## Brief description of what was done
 #### In this challenge,I demonstrated my skills: The given csv was used, an exploratory data analysis data to determine if it needs any imputation or some type of cleaning, it was found that it was perfect to work with, The data was uploaded to a relational database management system, which I chose Postgres, the data was called for both analysis and visualization in Power BI, conclusions were generated from the study of the graphs and the analysis and the proposed challenge was finally fulfilled.
@@ -100,7 +100,7 @@
 #### https://www.youtube.com/watch?v=ag5vK3R_h7M
 #### https://www.youtube.com/watch?v=pPhQfeSgO6o
 #### https://www.youtube.com/redirect?
-#### event=video_description&redir_token=QUFFLUhqblJHTEN4VzV6WVI0cE9Nb2liR2tkcGptWUNUQXxBQ3Jtc0tuNmV3MEF3Z3NWNDczM0Iwb3FJc3NrTE9zUGZ6ak9SUU1ueUZLZURwWWs3Q0xVc1JacEdvemZDNGhxVWhKUlN5UnhWUzdqZEliSWJ2bGtlTkNGRmNTX3JSUEFraEdhRl9oaVZ4NEVlMWRyRnFVeVYzSQ&q=https%3A%2F%2Fgithub.com%2Flearn2excel%2FPowerBI&v=pPhQfeSgO6o
+#### ####event=video_description&redir_token=QUFFLUhqblJHTEN4VzV6WVI0cE9Nb2liR2tkcGptWUNUQXxBQ3Jtc0tuNmV3MEF3Z3NWNDczM0Iwb3FJc3NrTE9zUGZ6ak9SUU1ueUZLZURwWWs3Q0xVc1JacEdvemZDNGhxVWhKUlN5UnhWUzdqZEliSWJ2bGtlTkNGRmNTX3JSUEFraEdhRl9oaVZ4NEVlMWRyRnFVeVYzSQ&q=https%3A%2F%2Fgithub.com%2Flearn2excel%2FPowerBI&v=pPhQfeSgO6o
 #### https://powerbi.microsoft.com/es-mx/blog/create-power-bi-reports-in-jupyter-notebooks/
 #### https://bertia.es/incrustar-informes-de-power-bi-en-jupyter-notebook/
 #### https://pypi.org/project/powerbiclient/
