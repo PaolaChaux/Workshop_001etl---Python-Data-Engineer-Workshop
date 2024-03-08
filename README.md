@@ -99,8 +99,7 @@
 #### https://www.youtube.com/watch?v=jlvMxTn_fOU
 #### https://www.youtube.com/watch?v=ag5vK3R_h7M
 #### https://www.youtube.com/watch?v=pPhQfeSgO6o
-#### https://www.youtube.com/redirect?
-#### ####event=video_description&redir_token=QUFFLUhqblJHTEN4VzV6WVI0cE9Nb2liR2tkcGptWUNUQXxBQ3Jtc0tuNmV3MEF3Z3NWNDczM0Iwb3FJc3NrTE9zUGZ6ak9SUU1ueUZLZURwWWs3Q0xVc1JacEdvemZDNGhxVWhKUlN5UnhWUzdqZEliSWJ2bGtlTkNGRmNTX3JSUEFraEdhRl9oaVZ4NEVlMWRyRnFVeVYzSQ&q=https%3A%2F%2Fgithub.com%2Flearn2excel%2FPowerBI&v=pPhQfeSgO6o
+#### https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJHTEN4VzV6WVI0cE9Nb2liR2tkcGptWUNUQXxBQ3Jtc0tuNmV3MEF3Z3NWNDczM0Iwb3FJc3NrTE9zUGZ6ak9SUU1ueUZLZURwWWs3Q0xVc1JacEdvemZDNGhxVWhKUlN5UnhWUzdqZEliSWJ2bGtlTkNGRmNTX3JSUEFraEdhRl9oaVZ4NEVlMWRyRnFVeVYzSQ&q=https%3A%2F%2Fgithub.com%2Flearn2excel%2FPowerBI&v=pPhQfeSgO6o
 #### https://powerbi.microsoft.com/es-mx/blog/create-power-bi-reports-in-jupyter-notebooks/
 #### https://bertia.es/incrustar-informes-de-power-bi-en-jupyter-notebook/
 #### https://pypi.org/project/powerbiclient/
